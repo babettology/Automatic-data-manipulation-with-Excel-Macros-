@@ -5,4 +5,4 @@
 # Excel Macro powered Bridge 
 
 Figure 1: 
-<img width="426" height="561" alt="image" src="https://github.com/user-attachments/assets/6b2c3134-08ef-46bf-b7d6-4557a567ce74" />
+<img width="716" height="940" alt="image" src="https://github.com/user-attachments/assets/36f2aedc-9eb2-4890-b042-82521eace280" />
